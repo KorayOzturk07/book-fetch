@@ -1,5 +1,5 @@
 
-# 📚 Library Management Application
+# 📚 Library Management Application - Book-Fetch
 
 A simple yet powerful library management system that allows users to search for books using the Google Books API, add books to their personal library, and manage their library with various features like updating book status and searching within the library.
 
@@ -45,7 +45,7 @@ pip install requests
 
 ```bash
 git clone https://github.com/KorayOzturk07/book-fetch
-cd library-management
+cd book-fetch
 ```
 
 2. **Run the application**:
